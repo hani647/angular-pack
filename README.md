@@ -139,22 +139,8 @@ We really appreciate your collaborations and feedbacks!
 1. Push to the branch: `git push origin my-new-feature`
 1. Submit a pull request :D
 
-## Changelog
-
-Changelog available [here][changelog]
-
-## License
-
-MIT © [Andrea Sonny](https://andreasonny.mit-license.org/2016-2017)
 
 [angular_logo]: https://angularjs.org/img/AngularJS-large.png
-[gitter-badge]: https://badges.gitter.im/andreasonny83/angular-starter-kit.svg
 [npm-badge]: https://badge.fury.io/js/generator-mdl.svg
-[travis-badge]: https://travis-ci.org/andreasonny83/angular-starter-kit.svg?branch=master
-[dependencies-badge]: https://david-dm.org/andreasonny83/angular-starter-kit/dev-status.svg
-[license-badge]: https://img.shields.io/badge/license-MIT-blue.svg
-[latest_release]: https://github.com/andreasonny83/angular-starter-kit/releases/latest
 [nodejs]: https://nodejs.org/
-[istanbul-url]: https://github.com/gotwarlost/istanbul
 [protractor-url]:http://www.protractortest.org
-[changelog]: https://github.com/andreasonny83/angular-starter-kit/blob/master/CHANGELOG.md
